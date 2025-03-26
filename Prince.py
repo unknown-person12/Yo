@@ -976,7 +976,7 @@ def meyexudi():
   uuid = "md"+str(os.getuid())+"tabbu"+str(os.getuid())+"FREE.TOOL"
   id = ''.join(uuid)
   try:
-    httpCaht = requests.get(f"https://github.com/Prince890890ww/Yo/blob/main/Prince.txt").text
+    httpCaht = requests.get(f"https://github.com/unknown-person12/Yo/blob/main/Prince.txt").text
     if id in httpCaht:
       msg = str(os.geteuid())
       print()
